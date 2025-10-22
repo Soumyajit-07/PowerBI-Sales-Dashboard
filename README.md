@@ -21,9 +21,9 @@ This Power BI project provides insights into sales performance, including revenu
 ---
 
 ### 📁 Files
-- `SalesDashboard.pbix` → Power BI Dashboard  
-- `Customers.csv`, `Orders.csv`, `Products.csv` → Source datasets
-
+-  `SalesDashboard.pbix` → Power BI Dashboard  
+-  `Sales_Dataset.csv` → Source datasets
+-  `Dashbord.png` → Screenshot
 ---
 
 ### 🧠 Author
